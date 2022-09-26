@@ -1,7 +1,7 @@
 # Хакатон [Skolkovo Hack](http://miethack.ru) 23.09.22 
 
 ## Кейс от [Web3 Tech](https://web3tech.ru/)
-[PDF](/profile/web3tech.md)
+[Markdown](/profile/web3tech.md)
 
 ## Решение
 
