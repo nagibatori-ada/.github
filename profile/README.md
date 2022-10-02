@@ -1,4 +1,4 @@
-# Хакатон [Skolkovo Hack](http://miethack.ru) 23.09.22 
+# Хакатон [Skolkovo Hack](https://skolkovohack.ru/) 23.09.22 
 
 ## Кейс от [Web3 Tech](https://web3tech.ru/)
 [Markdown](/profile/web3tech.md)
